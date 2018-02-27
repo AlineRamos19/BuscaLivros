@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Encontre</string>
+    <string name="label_insira_inf">Insira o nome do autor ou do livro que encontramos para você!</string>
+    <string name="edit_digite_aqui">Digite aqui</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="txt_descricao">Abby Abernathy é uma boa garota. Ela não bebe nem fala palavrão. E acredita que seu passado sombrio está bem distante, porém, quando, para cursar a faculdade, se muda para uma nova cidade, seu recomeço</string>
+    <string name="txt_nome_livro">Nome do Livro</string>
+    <string name="txt_autor">Autor</string>
+    <string name="label_toolbar_lista_livros">Lista de Livros</string>
+    <string name="aviso_sem_conexao">
+         <![CDATA[
+        Nenhuma rede disponível!\n
+       Verifique a conexão e tente novamente!
+         ]]>
+    </string>
+    <string name="eidt_inserir_infor">Favor inserir alguma informação!</string>
+    <string name="aviso_sem_resultados">
+         <![CDATA[
+        Nenhum livro encontrado!\n Favor verificar ortografia e
+     tentar novamente.
+         ]]>
+    </string>
+</resources>
